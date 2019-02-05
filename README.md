@@ -7,5 +7,5 @@ In this repository you can find four sorting algorithms:
 2) Insertion sort
 3) Bubble sort
 5) Merge sort
---
+
 Goodbye, Norjak123.
